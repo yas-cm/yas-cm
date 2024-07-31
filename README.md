@@ -11,9 +11,13 @@
 
 
 ---
+<div align="center">
 
-<img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yas-cm&layout=compact&hide_border=false&langs_count=7&theme=nightowl"/>
-<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=yas-cm&layout=compact&hide_border=false&langs_count=7&theme=nightowl"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yas-cm&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center">
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=yas-cm&theme=nightowl&hide_border=false)<br/>
 
 </div>
 
