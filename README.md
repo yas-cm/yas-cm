@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-size: 3vw;">✨ Bem vindo(a)! ✨ Welcome! ✨</h1>
-  <img style="width: 80%; margin-top: -15px" src="https://github.com/yas-cm/yas-cm/assets/138698763/d585d122-8278-4398-9794-321160b7ed8c" alt="">
+  <img style="width: 80%; margin-top: -15px" src="https://raw.githubusercontent.com/yas-cm/yas-cm/output/github-contribution-grid-snake-dark.svg" alt="">
 </div>
 
 ***
