@@ -7,8 +7,8 @@
 
 <h1>Sobre mim 🌟 About me</h1>
 <img align = "right" height = "220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yas-cm&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-<h4 align = "left">Sou a <b>Yasmin Cardoso Magagnin</b>, tenho 20 anos e sou uma profissional dedicada e apaixonada por tecnologia.</h4>
-<h6 align = "left">My name is <b>Yasmin Cardoso Magagnin</b>, I'm 20 years old and I'm a professional dedicated to and in love with technology.</h6>
+<h4 align = "left">Sou a <b>Yasmin Cardoso Magagnin</b>, tenho 21 anos e sou uma profissional dedicada e apaixonada por tecnologia.</h4>
+<h6 align = "left">My name is <b>Yasmin Cardoso Magagnin</b>, I'm 21 years old and I'm a professional dedicated to and in love with technology.</h6>
 <h4 align = "left">Com raciocínio lógico afiado e facilidade em aprendizado, busco desafios que me permitam aplicar minha criatividade, dedicação e liderança.</h4>
 <h6 align = "left">With sharp logical reasoning and a quick learning ability, I seek challenges that allow me to apply my creativity, dedication, and leadership.</h6>
 <h4 align = "left">Atualmente, trabalho como estagiária em <b>Desenvolvimento de Software Embarcado na Volvo</b> e estudante de <b>Engenharia da Computação na PUCPR</b>.</h4>
