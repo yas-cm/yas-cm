@@ -11,8 +11,8 @@
 <h6 align = "left">My name is <b>Yasmin Cardoso Magagnin</b>, I'm 20 years old and I'm a professional dedicated to and in love with technology.</h6>
 <h4 align = "left">Com raciocínio lógico afiado e facilidade em aprendizado, busco desafios que me permitam aplicar minha criatividade, dedicação e liderança.</h4>
 <h6 align = "left">With sharp logical reasoning and a quick learning ability, I seek challenges that allow me to apply my creativity, dedication, and leadership.</h6>
-<h4 align = "left">Atualmente, sou aprendiz de <b>Cibersistemas na Bosch</b> e estudante de <b>Engenharia da Computação na PUCPR</b>.</h4>
-<h6 align = "left">Currently, I am an apprentice in <b>Cybersystems at Bosch</b> and a Computer Engineering student at <b>PUCPR</b>.</h6>
+<h4 align = "left">Atualmente, trabalho como estagiária em <b>Desenvolvimento de Software Embarcado na Volvo</b> e estudante de <b>Engenharia da Computação na PUCPR</b>.</h4>
+<h6 align = "left">Currently, I work as an intern in <b>Embedded Software Development at Volvo</b> and a Computer Engineering student at <b>PUCPR</b>.</h6>
 
 ***
 <div align="center">
