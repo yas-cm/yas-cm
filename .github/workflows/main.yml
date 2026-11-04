@@ -32,7 +32,15 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
+
+      # generates the top languages card locally, so it doesn't depend on the public vercel instance
+      - name: generate top-langs.svg
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=material-palenight&hide_border=true
+          path: dist/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
